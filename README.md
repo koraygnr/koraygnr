@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Koray Güner
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning Html & Css & Javascript
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/kolistawra)
 - 📫 How to reach me okorayguner@gmail.com
 
 <!---
