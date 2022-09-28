@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Koray Güner
+# 👋 Hi, I’m Koray
 - 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning Html & Css & Javascript
+- 🌱 I’m currently learning Javascript & React.
 - 📫 How to reach me okorayguner@gmail.com
 
 <!---
