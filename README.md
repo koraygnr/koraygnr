@@ -6,8 +6,65 @@ I am a Geophysical Engineer but more passionate about software and design. I fol
 -  I’m currently learning **Javascript** & **React.**
 -  How to reach me okorayguner@gmail.com
 
-#### Languages and tools
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://user-images.githubusercontent.com/72223496/142397851-8d7993c8-35f6-410b-8ac9-384eb3046693.png" width="40" height="40" /></a> <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="44" height="40" /></a> <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+#### Languages And Tools
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" height="100" width="100">
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+            width="40"
+            height="40"
+            alt="HTML"
+          />
+          <br /><strong>HTML5</strong></a>
+      </td>
+      <td align="center" height="100" width="100">
+        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+            width="40"
+            height="40"
+            alt="CSS3"
+          />
+          <br /><strong>CSS3</strong>
+        </a>
+      </td>
+      <td align="center" height="100" width="100">
+        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+            width="40"
+            height="40"
+            alt="JavaScript"
+          />
+          <br /><strong>JavaScript</strong></a>
+      </td>
+      <td align="center" height="100" width="100">
+        <a href="https://reactjs.org/" target="_blank">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            width="40"
+            height="40"
+            alt="React"
+          />
+          <br /><strong>React</strong>
+        </a>
+      </td>
+      <td align="center" height="100" width="100">
+        <a href="https://getbootstrap.com/" target="_blank">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+            width="40"
+            height="40"
+            alt="Bootstrap"
+          />
+          <br /><strong>Bootstrap</strong>
+        </a>
+      </td>
+    </tr>
+</table>
+
 
 
 
