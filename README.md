@@ -22,9 +22,8 @@ I am a Software Engineer who is passionate about software and design with Geophy
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<p>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=koraygnr&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="koraygnr" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koraygnr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 kolistawra/kolistawra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
